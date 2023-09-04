@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 04 10:36:02 CST 2023
+ck-mvn-plugin-1.0.jar>=
+ck-mvn-plugin-1.0.pom>=
+ck-mvn-plugin-1.0-sources.jar>=
